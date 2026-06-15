@@ -10,20 +10,10 @@ Este proyecto presenta una implementación de un sistema de seguridad para aplic
 
 ## 📋 Tabla de Contenidos
 
-- [Introducción](#introducción)
 - [Características Clave](#características-clave)
 - [Tecnologías Empleadas](#tecnologías-empleadas)
-- [Entorno de Desarrollo y Flujo de Trabajo](#entorno-de-desarrollo-y-flujo-de-trabajo)
-  - [Gestión de Base de Datos](#gestión-de-base-de-datos)
-  - [Desarrollo de Backend](#desarrollo-de-backend)
-  - [Pruebas de API](#pruebas-de-api)
-- [Arquitectura de Seguridad](#arquitectura-de-seguridad)
-- [Configuración y Despliegue](#configuración-y-despliegue)
 - [Endpoints de la API](#endpoints-de-la-api)
-- [Autorización Dinámica](#autorización-dinámica-1)
-- [Manejo de Excepciones](#manejo-de-excepciones)
-- [Contribución](#contribución)
-- [Licencia](#licencia)
+
 
 ## 🌟 Características Clave
 
